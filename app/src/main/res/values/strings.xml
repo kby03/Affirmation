@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">자신을 사랑하는 법을 아는 것이 가장 위대한 사랑입니다.</string>
+    <string name="affirmation2">나이가 성숙을 보장하지는 않는다.</string>
+    <string name="affirmation3">행동의 가치는 그 행동을 끝까지 이루는 데 있다.</string>
+    <string name="affirmation4">성공이란 열정을 잃지 않고 실패를 거듭할 수 있는 능력이다.</string>
+    <string name="affirmation5">읽는 것 만큼 쓰는 것을 통해서도 많이 배운다.</string>
+    <string name="affirmation6">우리는 행복하기 때문에 웃는게 아니라, 웃기 때문에 행복하다.</string>
+    <string name="affirmation7">실패는 잊어라. 하지만 그것이 준 교훈은 절대 잊으면 안된다.</string>
+    <string name="affirmation8">인생에 뜻을 세우는데 적당한 때는 없다.</string>
+    <string name="affirmation9">인생은 가까이서 보면 비극, 멀리서 보면 희극이다.</string>
+    <string name="affirmation10">실패는 잊어라. 하지만 그것이 준 교훈은 절대 잊으면 안 된다.</string>
+</resources>
